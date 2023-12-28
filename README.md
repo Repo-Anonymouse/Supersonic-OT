@@ -1,4 +1,4 @@
-# Supersonic-OT: An unConditionally Secure OT that relies on only symmtric-key cryptography.
+# Supersonic-OT: An unconditionally secure OT that relies on only symmtric-key cryptography.
 
 
 
